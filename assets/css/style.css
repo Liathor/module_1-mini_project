@@ -1,0 +1,55 @@
+/* Universal Styles */
+
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+/* Element Styles */
+
+header {
+    background-color: aquamarine;
+    position: sticky;
+    top: 0;
+    padding: 5px 5px;
+}
+
+section {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+footer {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 30px;
+}
+
+ul {
+    text-align: right;
+    padding: 20px;
+}
+
+form {
+    border: solid 1px blue;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Class Styles */
+
+.header-list {
+    display: inline;
+
+}
+
+.title {
+    
+}
+
+.contact {
+    background-color: green;
+    padding: 20px;
+}
